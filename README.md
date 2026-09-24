@@ -16,7 +16,7 @@ Aero-Metrics is an end-to-end Power BI project analysing 199K flight records to 
 
 ### Passenger Feedback Insights
 
-![Passenger Feedback Insights](images/passenger-feedback-insights.png)
+(images/passenger-feedback-insights.png)
 
 ## Tools and Skills
 
